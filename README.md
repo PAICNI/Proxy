@@ -75,12 +75,14 @@
     <td>私有协议</td>
   </tr>
     <tr>
-    <td colspan="4">*网址如果打不开请开启“全局模式“翻墙打开。<br>
-    *机场网站有时会更新，请以网站显示信息为准。<br>
+    <td colspan="4">*如网址无法打开，请开启代理软件“全局模式或虚拟网卡模式“后重新打开。<br>
+    *以上机场网站会随时更新，请以网站显示信息为准。<br>
     </td>
   </tr>
   <tr>
     <td colspan="4">PC代理软件推荐：<a href="https://github.com/mihomo-party-org/clash-party" target="_blank">https://github.com/mihomo-party-org/clash-party</a><br>
+    <td colspan="4">安卓代理软件推荐：<a href="https://github.com/MetaCubeX/ClashMetaForAndroid" target="_blank">https://github.com/MetaCubeX/ClashMetaForAndroid</a><br>
+    <td colspan="4">苹果代理小火箭成品账户：<a href="https://sudufaka.eu.org/?from=5975" target="_blank">https://sudufaka.eu.org/?from=5975</a><br>
 加入Telegram粉丝群：<a href="https://t.me/SZ_PAI" target="_blank">@PaCN</a></td>
   </tr>
 </table>
