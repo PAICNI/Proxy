@@ -81,8 +81,12 @@
   </tr>
   <tr>
     <td colspan="4">PC代理软件推荐：<a href="https://github.com/mihomo-party-org/clash-party" target="_blank">https://github.com/mihomo-party-org/clash-party</a><br>
-    <td colspan="5">安卓代理软件推荐：<a href="https://github.com/MetaCubeX/ClashMetaForAndroid" target="_blank">https://github.com/MetaCubeX/ClashMetaForAndroid</a><br>
-    <td colspan="6">苹果代理小火箭成品账户：<a href="https://sudufaka.eu.org/?from=5975" target="_blank">https://sudufaka.eu.org/?from=5975</a><br>
+  </tr>
+    <tr>
+    <td colspan="4">安卓代理软件推荐：<a href="https://github.com/MetaCubeX/ClashMetaForAndroid" target="_blank">https://github.com/MetaCubeX/ClashMetaForAndroid</a><br>
+  </tr>
+    <tr>
+    <td colspan="4">苹果代理小火箭成品账户：<a href="https://sudufaka.eu.org/?from=5975" target="_blank">https://sudufaka.eu.org/?from=5975</a><br>
 加入Telegram粉丝群：<a href="https://t.me/SZ_PAI" target="_blank">@PaCN</a></td>
   </tr>
 </table>
