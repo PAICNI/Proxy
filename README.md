@@ -1,6 +1,6 @@
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
-    <td colspan="4" align="center"><h2>2025年度精选机场推荐 - 数字派</h2></td>
+    <td colspan="4" align="center"><h2>2025年精选机场/免费VPN推荐</h2></td>
   </tr>
   <tr>
     <td width="215" bgcolor="#00CCFF"><strong>机场名称</strong></td>
